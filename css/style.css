@@ -1,0 +1,54 @@
+h1
+{
+   color: red;
+   font-size: 20px;
+}
+.bg{
+    background-color: rgb(150, 150, 187);
+    font-size: 50;
+}
+#text {
+    font-size: 50px black
+}
+.odd {
+color: blueviolet;
+}
+img
+{
+   width: 100;
+   align-content: center;
+}
+.box
+{
+    color: aquamarine;
+}
+h2:first-child
+{
+    color: red;
+}
+h2:nth-child(even){
+ color: green;
+}
+h2:nth-child(odd)
+{
+    color: brown;
+    
+}
+.bg {
+ font-size: 30;
+}
+table,th,td 
+{
+  border: 1px solid;
+}
+img {
+    width: 50;
+}
+.mydiv{
+    background-color: antiquewhite;
+    border: 5px dashed;
+
+}
+.in{
+    text-align: center;
+}
